@@ -1,5 +1,7 @@
 # shorts-pipeline
 
+[![tests](https://github.com/SamruddhBorker/shorts-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/SamruddhBorker/shorts-pipeline/actions/workflows/tests.yml)
+ 
 One command from a text script to a finished vertical (1080x1920) captioned
 Short: voice-over, big caption cards, scene changes every few seconds.
 
